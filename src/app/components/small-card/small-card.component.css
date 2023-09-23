@@ -24,4 +24,5 @@
 
 .container__small-card__separator{
   margin-top: 23px;
+  opacity: 0.2;
 }

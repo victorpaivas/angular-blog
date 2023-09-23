@@ -1,0 +1,10 @@
+header{
+
+  display: flex;
+  justify-content: center;
+}
+
+.ultimas-noticias{
+  margin-top: 120px;
+  margin-left: 70px;
+}

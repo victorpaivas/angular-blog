@@ -3,14 +3,14 @@
     <a href="#">
       <div class="small-card__photo">
         <img
-          src="https://www.contabeis.com.br/assets/img/news/ia-pode-revolucionar-mercado-de-trabalho-em-paises-ricos.png"
+          src="{{ photoCoverSCard }}"
           alt="Place holder imagem"
         />
       </div>
     </a>
 
     <div class="small-card__title">
-      <h1><a href="#">Testes com IAs chocam</a></h1>
+      <h1><a [routerLink]="['content', Id]">{{ cardTitleSmall }}</a></h1>
     </div>
   </div>
 

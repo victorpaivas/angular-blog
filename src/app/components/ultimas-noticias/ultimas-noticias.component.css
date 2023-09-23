@@ -1,0 +1,24 @@
+
+
+.container___ultimas-noticias{
+  margin-top: 23px;
+  margin-left: 70px;
+  display: inline-block;
+  flex-direction: row;
+  width: 40%;
+
+
+}
+
+.container__ultimas-noticias-content{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.container__ultimas-noticias-title > h3 {
+  margin-left: 20px;
+}
+
+

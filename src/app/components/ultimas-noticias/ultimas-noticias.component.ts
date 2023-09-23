@@ -1,17 +1,18 @@
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-small-card',
-  templateUrl: './small-card.component.html',
-  styleUrls: ['./small-card.component.css']
+  selector: 'app-ultimas-noticias',
+  templateUrl: './ultimas-noticias.component.html',
+  styleUrls: ['./ultimas-noticias.component.css']
 })
-export class SmallCardComponent implements OnInit {
+export class UltimasNoticiasComponent implements OnInit {
+  
   @Input()
   photoCoverSCard:string = ""
 
   @Input()
   cardTitleSmall:string = ""
-  
+
   @Input()
   Id: string = "0"
   constructor() { }
