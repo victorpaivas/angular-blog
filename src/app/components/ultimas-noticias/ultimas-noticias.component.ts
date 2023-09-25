@@ -6,12 +6,12 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./ultimas-noticias.component.css']
 })
 export class UltimasNoticiasComponent implements OnInit {
-  
-  @Input()
-  photoCoverSCard:string = ""
 
   @Input()
-  cardTitleSmall:string = ""
+  photoCoverNoticias:string = ""
+
+  @Input()
+  cardTitleNoticias:string = ""
 
   @Input()
   Id: string = "0"

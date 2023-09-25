@@ -37,4 +37,22 @@ export const dataFake = [
     As novidades anunciadas durante o evento fazem parte da versão 22H2 e estarão disponíveis para os usuários a partir de 26 de setembro deste ano.`,
     "photoCover": "https://tm.ibxk.com.br/2023/09/21/21165206793289.jpg?ims=1120x420"
   },
+  {
+    "id": 5,
+    "title": "Nintendo 64: confira os 10 jogos mais emulados do console",
+    "descripiton": `O Nintendo 64 foi o terceiro console de mesa da Nintendo! Nele tivemos a chance de ver clássicos nascerem e franquias famosas da empresa ganhando ainda mais notoriedade. Ao longo do seu ciclo de vida foram centenas de games lançados — sendo que alguns ainda são jogados até hoje por meio de emuladores!`,
+    "photoCover": "https://tm.ibxk.com.br/2023/09/22/22200715319406.jpg?ims=1120x420"
+  },
+  {
+    "id": 6,
+    "title": "EA Sports FC 24 e mais: lançamentos de jogos na semana (24/09)",
+    "descripiton": `Embora essa seja a última semana de setembro, isso não quer dizer que ela não esteja recheada de lançamentos para consoles e PC. O grande destaque é o novo jogo de uma das franquias mais populares do mundo: EA Sports FC 24. O game, que deixou o nome FIFA de lado por questões contratuais, chega repleto de novidades, principalmente no seu modo mais popular, o Ultimate Team.`,
+    "photoCover": "https://tm.ibxk.com.br/2023/09/21/21172459958323.jpg?ims=1120x420"
+  },
+  {
+    "id": 7,
+    "title": "Jogos Mortais X e mais: veja as estreias de filmes e séries da semana",
+    "descripiton": `A última semana de setembro chega recheada de lançamentos, tanto nas plataformas de streaming disponíveis aqui no Brasil, como nas salas de cinema espalhadas pelo país. E o grande destaque não poderia ser outro senão o seriado Gen V, exclusivo da Amazon Prime Video, Ele é o primeiro derivado de outra série de sucesso, The Boys, que promete expandir o universo dos super-heróis mais controversos dos quadrinhos.`,
+    "photoCover": "https://tm.ibxk.com.br/2023/09/22/22115327071115.jpg?ims=1120x420"
+  },
 ];
